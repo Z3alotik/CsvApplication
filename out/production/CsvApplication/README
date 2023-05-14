@@ -1,0 +1,6 @@
+To run the project you need specific dependencies to download due to OpenCSV framework.
+---JavaDoc problems---
+I had problems with generating JavaDoc, those classes and methods for generating XML and CSV files are created
+in the csv.writer and xml.generator packages with some description how would I make them work.
+----------------------
+Last thing, I used FreeMarker library for making HTML files, I hope it's OK.
